@@ -7,5 +7,5 @@ https://www.kaggle.com/smitkumbhani/pneumothoraxdataset
 # Read about this project from my Medium Blog:  
 https://www.kaggle.com/smitkumbhani/pneumothoraxdataset
 
-#Linkdin:
+# Linkdin:
 https://www.linkedin.com/in/smit-kumbhani-44b07615a
